@@ -3,7 +3,7 @@
 ## Учебный курс Python
 ### Липченко Анастасия
 
-[My Telegram for effective communication](@Lipchenkonasty)
+[My Telegram for effective communication](https://t.me/Lipchenkonasty)
 
 | Программа | Курс |
 | --------- | ---- |
